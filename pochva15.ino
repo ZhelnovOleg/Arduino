@@ -1,5 +1,5 @@
 
-int rainPin = A0;
+hint rainPin = A0;
 int greenLED = 6;
 int redLED = 7;
 // пороговое значение указывается тут:
